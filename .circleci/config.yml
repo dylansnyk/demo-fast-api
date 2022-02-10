@@ -9,6 +9,5 @@ jobs:
       - checkout
       - run: pip install -r requirements.txt
       - snyk/scan
-        additional-arguments: '--all-projects'
         monitor-on-build: true
 workflows: null
