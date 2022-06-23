@@ -6,7 +6,6 @@ fastapi==0.70.0
 h11==0.12.0
 idna==3.3
 igraph==0.9.9
-parsedoc==0.2.1
 pydantic==1.8.2
 sniffio==1.2.0
 starlette==0.16.0
