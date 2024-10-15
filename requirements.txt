@@ -8,7 +8,7 @@ idna==3.3
 igraph==0.9.9
 pydantic==1.8.2
 sniffio==1.2.0
-starlette==0.16.0
+starlette==0.40.0
 texttable==1.6.4
 typing_extensions==4.0.0
 uvicorn==0.15.0
